@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "練習になる譜面(GOOD CHART)",
+"symbol" : "GC",
+"data_url" : "https://script.google.com/macros/s/AKfycbxcjkLCEEojfP14dUpHImwoIrMPHq3LJZGB0ypbQwot/dev"
 }
